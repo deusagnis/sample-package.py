@@ -1,4 +1,4 @@
-# Sample project on Python
+# Sample package on Python
 ## Dependencies
 Use command to install dependencies:
 
